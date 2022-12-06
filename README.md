@@ -1,4 +1,4 @@
-# Deloitte-Data-Avengers
+Deloitte-Data-Avengers
 
 # Analyze the sentiment of news from different sources.
 
